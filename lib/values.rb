@@ -10,5 +10,5 @@ require 'pry'
 
 def get_the_values(groceries)
   #Now, to get all the values in a flat array:
-  groceries.values.flattern
+  groceries.values.flatten
 end
